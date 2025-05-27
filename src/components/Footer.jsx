@@ -36,8 +36,8 @@ const Footer = () => {
         <hr />
         <p className="py-5 text-base text-center">
           Copyright © 2025{" "}
-          <a href="https://www.linkedin.com/in/mohit-nalage-4719b1219/">
-            @Mohit
+          <a href="https://www.linkedin.com/in/prathamesh-jadhav-4a920725a/">
+            @Prathamesh
           </a>{" "}
           - All Rights Reserved
         </p>
